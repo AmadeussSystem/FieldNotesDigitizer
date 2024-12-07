@@ -2,6 +2,15 @@
 
 This Python script converts each page of a PDF document into an image with a transparent background, removing any ink (black text) and leaving the background transparent. The output images are saved as PNG files with transparency.
 
+## Results
+- Before
+- ![image](https://github.com/user-attachments/assets/28c78fd0-afce-452f-b8a2-a7c3125761f1)
+***
+- After
+- ![image](https://github.com/user-attachments/assets/6e10ff03-f4c9-43c3-8cb9-48ebf334eb86)
+- ![image](https://github.com/user-attachments/assets/e998c1f0-5491-4c45-96c0-2733bff1251c)
+- As a Student this works fine and most importantly its is automated so Yee Boi.
+
 ## Features
 - Convert PDF pages to images.
 - Remove black ink (text) and make the background transparent.
@@ -9,13 +18,9 @@ This Python script converts each page of a PDF document into an image with a tra
 
 ## Requirements
 
-Make sure you have the following dependencies installed:
-
-- Python 3.x
-- [pdf2image](https://pypi.org/project/pdf2image/)
-- [OpenCV](https://pypi.org/project/opencv-python/)
-- [Pillow](https://pypi.org/project/Pillow/)
-- [NumPy](https://pypi.org/project/numpy/)
+Make sure you have the following:
+- That you have prescanned the pdf with a Scanner and Btw Mobile scanner appilcation also work
+- Install the dependencies given the following requirements.txt
 
 You can install these dependencies using pip by running:
 
