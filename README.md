@@ -21,7 +21,7 @@ You can install these dependencies using pip by running:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ***
 ## Developments
 - Feel Free to Open PR Requests If you find better Configuration to optimize the Output results. 
