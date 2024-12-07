@@ -19,7 +19,8 @@ This Python script converts each page of a PDF document into an image with a tra
 ## Requirements
 
 Make sure you have the following:
-- That you have prescanned the pdf with a Scanner and Btw Mobile scanner appilcation also work
+- That you have prescanned the pdf with a Scanner and Btw Mobile scanner appilcation also work.
+- Also Make sure that After scanning Ink should be of some colour of black I haven't tried it with a physical scanner so I don't how it much effective it may be on that.
 - Install the dependencies given the following requirements.txt
 
 You can install these dependencies using pip by running:
