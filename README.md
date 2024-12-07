@@ -1,0 +1,2 @@
+# myObsidianSync
+# FieldNotesDigitizer
